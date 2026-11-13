@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #516dff;
+  background-color: #136700;
   color: #fff;
   font-family: 'Press Start 2P', sans-serif;
   height: 100vh;
@@ -48,7 +48,7 @@ body {
 }
 
 .screen.up {
-  margin-top: -200vh;
+  margin-top: -100vh;
 }
 
 a {
@@ -90,6 +90,10 @@ h1 {
 
 .choose-insect-btn:active {
   background-color: rgba(255, 255, 255, 0.7);
+}
+
+.screen.up {
+  margin-top: -200vh;
 }
 
 .time, .score {
